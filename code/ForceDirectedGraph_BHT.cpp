@@ -1,4 +1,10 @@
-#include "Parameter.h"
+﻿#include <cstdio>
+#include <cstdlib>
+#include <cmath>
+#include <queue>
+#include <utility>
+#include <fstream>
+#include <iomanip>
 #include "BarnesHutTree.cpp"
 
 using namespace std;

@@ -1,4 +1,10 @@
-#include "Parameter.h"
+#include <cstdio>
+#include <cstdlib>
+#include <cmath>
+#include <queue>
+#include <utility>
+#include <fstream>
+#include <iomanip>
 using namespace std;
 const double G = 100;       //³âÁ¦ÏµÊý
 int c;
