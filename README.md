@@ -1,4 +1,4 @@
-# Barnes-Hut-Tree
-A simple implementation of barnes-hut tree and an application in force-directed layout
+## Force-directed-layout
+Simple implementations of NAIVE methods and a implementation of barnes-hut tree which applied in force-directed layout
 
 
